@@ -1,6 +1,10 @@
 ---
 name: content-calendar
+version: 1.0.0
 description: Plan, create, and track content across any platform. Manage your content pipeline from idea to published, brainstorm topics, draft posts, and repurpose content. Use when anyone mentions content planning, social media posts, blog schedule, newsletter, posting calendar, content ideas, or asks for help creating posts.
+metadata:
+  openclaw:
+    emoji: 📅
 ---
 
 # Content Calendar
